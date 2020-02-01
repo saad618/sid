@@ -5,4 +5,3 @@ for i in range(5):
     for j in range(4):
         data[i][j]=input()
 print(data)
-print(data)
